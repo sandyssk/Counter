@@ -1,0 +1,15 @@
+.number{
+    font-size: 60px;
+    font-weight: bold;
+}
+.overall{
+    text-align: center;
+    background-color: white;
+    height: 100vh;
+}
+.button{
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    border-width: 3px;
+}
